@@ -11,9 +11,9 @@
 ## Post-conditions
 * N/A
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 2/16/22 21:39:31
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -24,6 +24,6 @@
 	* Expected Results
 		* true
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
